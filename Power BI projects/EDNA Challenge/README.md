@@ -36,3 +36,12 @@ Create a new column in the Calls data files, name it “SLA Compliance” This 
 
 ## DATA CLEANING
 
+The datasets were extremely dirty, I had to perform a series of transformations on them to make them clean. The steps applied are in the pictures attached below
+
+![Cleaning 1](https://user-images.githubusercontent.com/89814079/169285164-62d3728a-1e12-49e9-82fb-ff4f3d4f4ac5.JPG)
+
+
+![cleaning 2](https://user-images.githubusercontent.com/89814079/169285313-3f9c77eb-cbfd-4353-8966-0db633ed0438.JPG)
+
+
+## INSIGHTS 
