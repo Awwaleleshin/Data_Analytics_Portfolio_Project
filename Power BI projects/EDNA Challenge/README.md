@@ -18,7 +18,7 @@ Excel file containing two-dimension tables Call Centre employees or Reps
 
 Data-dictionary
 
-## Additional files were received from EDNA’s Call Centres CEO two weeks after commencement of the project;
+**Additional files were received from EDNA’s Call Centres CEO two weeks after commencement of the project;**
 
 CSV file containing calls data for the year of 2021.
 
